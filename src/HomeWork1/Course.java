@@ -7,5 +7,4 @@ public class Course {
         this.barrierHeight = barrierHeight;
         this.Distance = Distance;
     }
-
 }

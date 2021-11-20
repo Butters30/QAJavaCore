@@ -12,5 +12,4 @@ public class Main1 {
 
         tM[0].race();tM[1].race();tM[2].race();tM[3].race();tM[4].killKenny();
     }
-
 }

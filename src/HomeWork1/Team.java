@@ -24,5 +24,4 @@ public class Team {
     public void killKenny(){
         if(Objects.equals(nameTeamMate, "Kenny")) System.out.println("Кенни не смог преодолеть дистанцию. Сволочи! Они убили Кенни!");
     }
-
 }
